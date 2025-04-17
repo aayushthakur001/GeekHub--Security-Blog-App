@@ -118,10 +118,10 @@ Follow these steps to set up the project locally:
 ![Blog Page](./screenshot/5.jpg)
 
 ### 📋 Game Home Page
-![Blog Page](./screenshot/6.jpg)
+![Blog Page](./screenshot/6.png)
 
 ### 📋 Game Running Screen
-![Blog Page](./screenshot/7.jpg)
+![Blog Page](./screenshot/7.png)
 
 ---
 
