@@ -102,13 +102,28 @@ Follow these steps to set up the project locally:
 
 ## 📸 Screenshots
 
-> **Note**: Store all screenshots in the `/assets` directory.
+> **Note**: Store all screenshots in the `/Screenshot` directory.
 
-### 🏠 Home Page
-![Home Page](./assets/home_page.png)
+### 🏠 Splaash Screen
+![Home Page](./screenshot/1.jpg)
 
-### 📋 Blog Page
-![Blog Page](./assets/blog_page.png)
+### 📋 Blog/Home Page
+![Blog Page](./screenshot/2.jpg)
+
+### 📋 Home Page in Dark mode
+![Blog Page](./screenshot/3.jpg)
+
+### 📋 Menu Bar
+![Blog Page](./screenshot/4.jpg)
+
+### 📋 Game Screen With buttons
+![Blog Page](./screenshot/5.jpg)
+
+### 📋 Game Home Page
+![Blog Page](./screenshot/6.jpg)
+
+### 📋 Game Running Screen
+![Blog Page](./screenshot/7.jpg)
 
 ---
 
