@@ -1,5 +1,3 @@
-Based on your preferred structure, here's the README file template tailored for your project:
-
 ---
 
 # GeekHub - Security Blog App
