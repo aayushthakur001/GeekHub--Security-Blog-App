@@ -147,5 +147,3 @@ This project was developed by **Ayush Thakur**, a passionate software developer 
 This project is licensed under the [MIT License](LICENSE).
 
 ---
-
-Feel free to customize the sections further or let me know if you'd like additional modifications! You can [create the README file here](https://github.com/aayushthakur001/GeekHub--Security-Blog-App/new/master?filename=README.md).
