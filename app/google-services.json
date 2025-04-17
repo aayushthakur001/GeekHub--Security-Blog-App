@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1059680408591",
+    "project_id": "geekhub-d7f75",
+    "storage_bucket": "geekhub-d7f75.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1059680408591:android:9095938f46a5a73f787f7a",
+        "android_client_info": {
+          "package_name": "com.geekhub.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9KXG-MzOGF6RNOOcRZiGCZHaTTcQd1EY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
